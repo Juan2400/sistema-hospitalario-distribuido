@@ -91,13 +91,7 @@ node servidor_central/servidor.js
 npm install
 ```
 
-2. Crea el archivo `.env` con la IP de Parrot:
-
-```ini
-BROKER_IP=192.168.1.100
-```
-
-3. Ejecuta el nodo:
+2. Ejecuta el nodo:
 
 ```bash
 node hospitales/hospital.js
